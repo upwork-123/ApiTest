@@ -1,0 +1,74 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>ApiTest</name>
+    </assembly>
+    <members>
+        <member name="T:ApiTest.Controllers.PersonController">
+            <summary>
+            Controller to perform operations related to person
+            </summary>
+        </member>
+        <member name="M:ApiTest.Controllers.PersonController.#ctor(ApiTest.DBContext.PersonsContext)">
+            <summary>
+            Constructor
+            </summary>
+            <param name="db"></param>
+        </member>
+        <member name="M:ApiTest.Controllers.PersonController.GetPersons">
+            <summary>
+            Get all the persons with identfiers.
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:ApiTest.Controllers.PersonController.GetPersonByName(ApiTest.Models.PersonModel)">
+            <summary>
+            Get all the person by firstname or lastname
+            </summary>
+            <param name="person"></param>
+            <returns></returns>
+        </member>
+        <member name="M:ApiTest.Controllers.PersonController.GetPersonByIdentifiers(System.Collections.Generic.List{System.Guid})">
+            <summary>
+            Get all the person who has specific identifiers
+            </summary>
+            <param name="identifiers">List of identifiers to compare</param>
+            <returns></returns>
+        </member>
+        <member name="M:ApiTest.Controllers.PersonController.CreatePerson(ApiTest.Models.PersonModel)">
+            <summary>
+            Create a person with or without idetifiers
+            </summary>
+            <param name="person">Person info to create</param>
+            <returns></returns>
+        </member>
+        <member name="M:ApiTest.Controllers.PersonController.CreateIdentifier(ApiTest.Models.IdentifierModel)">
+            <summary>
+            Add new identifier to a person
+            </summary>
+            <param name="identifier">Identifier info</param>
+            <returns></returns>
+        </member>
+        <member name="M:ApiTest.Controllers.PersonController.DeleteIdentifier(System.Guid)">
+            <summary>
+            Delete identifier form a person
+            </summary>
+            <param name="id">identifier id to delete</param>
+            <returns></returns>
+        </member>
+        <member name="M:ApiTest.Controllers.PersonController.DeletePerson(System.Guid)">
+            <summary>
+            Execute a logical delete on a person
+            </summary>
+            <param name="personId">Unique Person id to delete</param>
+            <returns></returns>
+        </member>
+        <member name="M:ApiTest.Controllers.PersonController.UpdatePerson(ApiTest.Models.PersonModel)">
+            <summary>
+            Update a person without changing identifiers
+            </summary>
+            <param name="person">Person info to update</param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>

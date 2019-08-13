@@ -1,0 +1,12 @@
+E:\Official\Projects\James\Samples\ApiTest\ApiTest\bin\Debug\netcoreapp2.0\ApiTest.xml
+E:\Official\Projects\James\Samples\ApiTest\ApiTest\bin\Debug\netcoreapp2.0\ApiTest.deps.json
+E:\Official\Projects\James\Samples\ApiTest\ApiTest\bin\Debug\netcoreapp2.0\ApiTest.runtimeconfig.json
+E:\Official\Projects\James\Samples\ApiTest\ApiTest\bin\Debug\netcoreapp2.0\ApiTest.runtimeconfig.dev.json
+E:\Official\Projects\James\Samples\ApiTest\ApiTest\bin\Debug\netcoreapp2.0\ApiTest.dll
+E:\Official\Projects\James\Samples\ApiTest\ApiTest\bin\Debug\netcoreapp2.0\ApiTest.pdb
+E:\Official\Projects\James\Samples\ApiTest\ApiTest\obj\Debug\netcoreapp2.0\ApiTest.csprojResolveAssemblyReference.cache
+E:\Official\Projects\James\Samples\ApiTest\ApiTest\obj\Debug\netcoreapp2.0\ApiTest.csproj.CoreCompileInputs.cache
+E:\Official\Projects\James\Samples\ApiTest\ApiTest\obj\Debug\netcoreapp2.0\ApiTest.AssemblyInfoInputs.cache
+E:\Official\Projects\James\Samples\ApiTest\ApiTest\obj\Debug\netcoreapp2.0\ApiTest.AssemblyInfo.cs
+E:\Official\Projects\James\Samples\ApiTest\ApiTest\obj\Debug\netcoreapp2.0\ApiTest.dll
+E:\Official\Projects\James\Samples\ApiTest\ApiTest\obj\Debug\netcoreapp2.0\ApiTest.pdb
